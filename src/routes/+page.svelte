@@ -254,15 +254,7 @@
       padding-top: 3em; 
       width: 90%;
     }
-    .card {
-    background-color: var(--card-blue-gray);
-    padding: 2.5rem 3rem;
-    border-radius: 16px;
-    border: 1px solid var(--border-color);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-    width: 100%;
-    transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
-  }
+
     .card {
       padding: 1rem 1.5rem; 
       width: 90%;
